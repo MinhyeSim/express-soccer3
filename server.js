@@ -1,7 +1,5 @@
 import dotenv from 'dotenv'
 import express from 'express'
-import dotenv from 'dotenv'
-import express from 'express'
 import passport from 'passport'
 import morgan from 'morgan'
 import db from './app/models/index.js'
